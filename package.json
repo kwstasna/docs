@@ -30,7 +30,7 @@
     "webpack": "^1.13.1"
   },
   "dependencies": {
-    "jquery": "^2.2.4",
+    "jquery": "^3.4.0",
     "underscore": "^1.8.3"
   }
 }
